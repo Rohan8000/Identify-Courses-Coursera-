@@ -1,0 +1,55 @@
+17:08:50.663 [main] INFO  TestCases.CourseraTest1 - Fill which describes your needs
+17:08:50.818 [main] INFO  TestCases.CourseraTest1 - Fill Country
+17:08:50.992 [main] INFO  TestCases.CourseraTest1 - Fill State
+17:08:54.070 [main] INFO  TestCases.CourseraTest1 - Click on Submit
+17:08:54.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:54.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:08:54.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:08:54.125 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+17:08:54.145 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+17:08:54.147 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+17:08:54.150 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+17:08:54.150 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+17:08:54.152 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/persons/person.xml'
+17:08:54.152 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+17:08:54.152 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+17:08:54.152 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+17:08:54.152 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+17:08:54.153 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+17:08:54.155 [main] INFO  TestCases.CourseraTest1 - Capture error message
+17:08:54.156 [main] INFO  TestCases.CourseraTest1 - Test case 3 Ends
+17:08:58.501 [main] INFO  TestCases.CourseraTest1 - Fill the firstName
+17:08:58.952 [main] INFO  TestCases.CourseraTest1 - Fill the lastName
+17:08:59.190 [main] INFO  TestCases.CourseraTest1 - Fill email Id
+17:08:59.372 [main] INFO  TestCases.CourseraTest1 - Fill phone number
+17:08:59.600 [main] INFO  TestCases.CourseraTest1 - Fill Institution Type
+17:08:59.760 [main] INFO  TestCases.CourseraTest1 - Fill Institution Name
+17:08:59.972 [main] INFO  TestCases.CourseraTest1 - Fill Job Role
+17:09:00.204 [main] INFO  TestCases.CourseraTest1 - Fill Department
+17:09:00.547 [main] INFO  TestCases.CourseraTest1 - Fill which describes your needs
+17:09:00.895 [main] INFO  TestCases.CourseraTest1 - Fill Country
+17:09:01.112 [main] INFO  TestCases.CourseraTest1 - Fill State
+17:09:04.190 [main] INFO  TestCases.CourseraTest1 - Click on Submit
+17:09:04.236 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:09:04.236 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:09:04.236 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:09:04.242 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+17:09:04.252 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+17:09:04.253 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+17:09:04.255 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+17:09:04.256 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+17:09:04.258 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/persons/person.xml'
+17:09:04.258 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+17:09:04.258 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+17:09:04.259 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+17:09:04.259 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+17:09:04.261 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+17:09:04.264 [main] INFO  TestCases.CourseraTest1 - Capture error message
+17:09:04.264 [main] INFO  TestCases.CourseraTest1 - Test case 3 Ends
+17:09:08.233 [main] INFO  TestCases.CourseraTest1 - Fill the firstName
+17:09:08.521 [main] INFO  TestCases.CourseraTest1 - Fill the lastName
+17:09:08.714 [main] INFO  TestCases.CourseraTest1 - Fill email Id
+17:09:08.885 [main] INFO  TestCases.CourseraTest1 - Fill phone number
+17:09:09.096 [main] INFO  TestCases.CourseraTest1 - Fill Institution Type
+17:09:09.273 [main] INFO  TestCases.CourseraTest1 - Fill Institution Name
+17:09:09.472 [main] INFO  TestCases.CourseraTest1 - Fill Job Role

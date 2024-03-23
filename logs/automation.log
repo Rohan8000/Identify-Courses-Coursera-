@@ -1,0 +1,29 @@
+17:09:09.657 [main] INFO  TestCases.CourseraTest1 - Fill Department
+17:09:09.854 [main] INFO  TestCases.CourseraTest1 - Fill which describes your needs
+17:09:10.182 [main] INFO  TestCases.CourseraTest1 - Fill Country
+17:09:10.362 [main] INFO  TestCases.CourseraTest1 - Fill State
+17:09:13.460 [main] INFO  TestCases.CourseraTest1 - Click on Submit
+17:09:27.480 [main] INFO  TestCases.CourseraTest1 - Fill the firstName
+17:09:27.802 [main] INFO  TestCases.CourseraTest1 - Fill the lastName
+17:09:28.128 [main] INFO  TestCases.CourseraTest1 - Fill email Id
+17:09:28.370 [main] INFO  TestCases.CourseraTest1 - Fill phone number
+17:09:28.637 [main] INFO  TestCases.CourseraTest1 - Fill Institution Type
+17:09:28.914 [main] INFO  TestCases.CourseraTest1 - Fill Institution Name
+17:09:29.139 [main] INFO  TestCases.CourseraTest1 - Fill Job Role
+17:09:29.326 [main] INFO  TestCases.CourseraTest1 - Fill Department
+17:09:29.526 [main] INFO  TestCases.CourseraTest1 - Fill which describes your needs
+17:09:29.727 [main] INFO  TestCases.CourseraTest1 - Fill Country
+17:09:29.990 [main] INFO  TestCases.CourseraTest1 - Fill State
+17:09:33.062 [main] INFO  TestCases.CourseraTest1 - Click on Submit
+17:09:46.765 [main] INFO  TestCases.CourseraTest1 - Fill the firstName
+17:09:47.170 [main] INFO  TestCases.CourseraTest1 - Fill the lastName
+17:09:47.410 [main] INFO  TestCases.CourseraTest1 - Fill email Id
+17:09:47.622 [main] INFO  TestCases.CourseraTest1 - Fill phone number
+17:09:47.882 [main] INFO  TestCases.CourseraTest1 - Fill Institution Type
+17:09:48.097 [main] INFO  TestCases.CourseraTest1 - Fill Institution Name
+17:09:48.300 [main] INFO  TestCases.CourseraTest1 - Fill Job Role
+17:09:48.492 [main] INFO  TestCases.CourseraTest1 - Fill Department
+17:09:48.744 [main] INFO  TestCases.CourseraTest1 - Fill which describes your needs
+17:09:48.977 [main] INFO  TestCases.CourseraTest1 - Fill Country
+17:09:49.175 [main] INFO  TestCases.CourseraTest1 - Fill State
+17:09:52.262 [main] INFO  TestCases.CourseraTest1 - Click on Submit
